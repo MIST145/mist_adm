@@ -3999,5 +3999,473 @@ return {
     ["gbsentinelgts"] = {
         label = "gbsentinelgts",
         image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/gbsentinelgts.png"
+    },
+    ["18f350ds"] = {
+        label = "18f350ds",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/18f350ds.png"
+    },
+    ["18f350dsb"] = {
+        label = "18f350dsb",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/18f350dsb.png"
+    },
+    ["19gt500"] = {
+        label = "19gt500",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/19gt500.png"
+    },
+    ["19raptor"] = {
+        label = "19raptor",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/19raptor.png"
+    },
+    ["20f250"] = {
+        label = "20f250",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/20f250.png"
+    },
+    ["20roma"] = {
+        label = "20roma",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/20roma.png"
+    },
+    ["21camaro"] = {
+        label = "21camaro",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/21camaro.png"
+    },
+    ["22m135imperf"] = {
+        label = "22m135imperf",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/22m135imperf.png"
+    },
+    ["992techart"] = {
+        label = "992techart",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/992techart.png"
+    },
+    ["2019M5"] = {
+        label = "2019M5",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/2019M5.png"
+    },
+    ["2019M51"] = {
+        label = "2019M51",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/2019M51.png"
+    },
+    ["aeroxthunder"] = {
+        label = "aeroxthunder",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/aeroxthunder.png"
+    },
+    ["b800"] = {
+        label = "b800",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/b800.png"
+    },
+    ["bmci"] = {
+        label = "bmci",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/bmci.png"
+    },
+    ["bmw5tpp"] = {
+        label = "bmw5tpp",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/bmw5tpp.png"
+    },
+    ["bomberbike"] = {
+        label = "bomberbike",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/bomberbike.png"
+    },
+    ["cam8tun"] = {
+        label = "cam8tun",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/cam8tun.png"
+    },
+    ["cbr1000rrr"] = {
+        label = "cbr1000rrr",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/cbr1000rrr.png"
+    },
+    ["cla45sprzemo"] = {
+        label = "cla45sprzemo",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/cla45sprzemo.png"
+    },
+    ["crfsm"] = {
+        label = "crfsm",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/crfsm.png"
+    },
+    ["crownvic"] = {
+        label = "crownvic",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/crownvic.png"
+    },
+    ["cz4a"] = {
+        label = "cz4a",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/cz4a.png"
+    },
+    ["dreredeyecharger"] = {
+        label = "dreredeyecharger",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/dreredeyecharger.png"
+    },
+    ["e92dy"] = {
+        label = "e92dy",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/e92dy.png"
+    },
+    ["fmgt"] = {
+        label = "fmgt",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/fmgt.png"
+    },
+    ["gls63"] = {
+        label = "gls63",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/gls63.png"
+    },
+    ["gr86"] = {
+        label = "gr86",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/gr86.png"
+    },
+    ["gstcoronet2"] = {
+        label = "gstcoronet2",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/gstcoronet2.png"
+    },
+    ["gsxr19"] = {
+        label = "gsxr19",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/gsxr19.png"
+    },
+    ["gt2017"] = {
+        label = "gt2017",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/gt2017.png"
+    },
+    ["honcrx91"] = {
+        label = "honcrx91",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/honcrx91.png"
+    },
+    ["ikx3cross22"] = {
+        label = "ikx3cross22",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/ikx3cross22.png"
+    },
+    ["ikx3dbx707"] = {
+        label = "ikx3dbx707",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/ikx3dbx707.png"
+    },
+    ["ikx3elantran22"] = {
+        label = "ikx3elantran22",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/ikx3elantran22.png"
+    },
+    ["ikx3emira23"] = {
+        label = "ikx3emira23",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/ikx3emira23.png"
+    },
+    ["ikx3formentor21"] = {
+        label = "ikx3formentor21",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/ikx3formentor21.png"
+    },
+    ["ikx3gt3rs23"] = {
+        label = "ikx3gt3rs23",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/ikx3gt3rs23.png"
+    },
+    ["ikx3gtblack"] = {
+        label = "ikx3gtblack",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/ikx3gtblack.png"
+    },
+    ["ikx3ioniq23"] = {
+        label = "ikx3ioniq23",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/ikx3ioniq23.png"
+    },
+    ["ikx3j50"] = {
+        label = "ikx3j50",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/ikx3j50.png"
+    },
+    ["ikx3m223"] = {
+        label = "ikx3m223",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/ikx3m223.png"
+    },
+    ["ikx3m421"] = {
+        label = "ikx3m421",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/ikx3m421.png"
+    },
+    ["ikx3machegt21"] = {
+        label = "ikx3machegt21",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/ikx3machegt21.png"
+    },
+    ["ikx3mgt24"] = {
+        label = "ikx3mgt24",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/ikx3mgt24.png"
+    },
+    ["ikx3r1t22"] = {
+        label = "ikx3r1t22",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/ikx3r1t22.png"
+    },
+    ["ikx3rezvani"] = {
+        label = "ikx3rezvani",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/ikx3rezvani.png"
+    },
+    ["ikx3rvaris"] = {
+        label = "ikx3rvaris",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/ikx3rvaris.png"
+    },
+    ["ikx3urus23"] = {
+        label = "ikx3urus23",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/ikx3urus23.png"
+    },
+    ["ikx3vantage23"] = {
+        label = "ikx3vantage23",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/ikx3vantage23.png"
+    },
+    ["ikx3718s24"] = {
+        label = "ikx3718s24",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/ikx3718s24.png"
+    },
+    ["ikx3718wp22"] = {
+        label = "ikx3718wp22",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/ikx3718wp22.png"
+    },
+    ["jaylockbent"] = {
+        label = "jaylockbent",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/jaylockbent.png"
+    },
+    ["jp12"] = {
+        label = "jp12",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/jp12.png"
+    },
+    ["ktm450sx"] = {
+        label = "ktm450sx",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/ktm450sx.png"
+    },
+    ["ktmsm"] = {
+        label = "ktmsm",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/ktmsm.png"
+    },
+    ["lhuracant"] = {
+        label = "lhuracant",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/lhuracant.png"
+    },
+    ["m4lci"] = {
+        label = "m4lci",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/m4lci.png"
+    },
+    ["m8tdb"] = {
+        label = "m8tdb",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/m8tdb.png"
+    },
+    ["m13fortwo"] = {
+        label = "m13fortwo",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/m13fortwo.png"
+    },
+    ["m346"] = {
+        label = "m346",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/m346.png"
+    },
+    ["mazfd"] = {
+        label = "mazfd",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/mazfd.png"
+    },
+    ["mevo9t"] = {
+        label = "mevo9t",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/mevo9t.png"
+    },
+    ["mgt"] = {
+        label = "mgt",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/mgt.png"
+    },
+    ["mkcrx8"] = {
+        label = "mkcrx8",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/mkcrx8.png"
+    },
+    ["nisgtir"] = {
+        label = "nisgtir",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/nisgtir.png"
+    },
+    ["nisr33"] = {
+        label = "nisr33",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/nisr33.png"
+    },
+    ["nissunny"] = {
+        label = "nissunny",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/nissunny.png"
+    },
+    ["purosangue"] = {
+        label = "purosangue",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/purosangue.png"
+    },
+    ["raptor2017"] = {
+        label = "raptor2017",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/raptor2017.png"
+    },
+    ["raptorbeast"] = {
+        label = "raptorbeast",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/raptorbeast.png"
+    },
+    ["rs318"] = {
+        label = "rs318",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/rs318.png"
+    },
+    ["scr950"] = {
+        label = "scr950",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/scr950.png"
+    },
+    ["SRTPD"] = {
+        label = "SRTPD",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/SRTPD.png"
+    },
+    ["them5f90"] = {
+        label = "them5f90",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/them5f90.png"
+    },
+    ["tw_b330i22"] = {
+        label = "tw_b330i22",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/tw_b330i22.png"
+    },
+    ["urbansvr"] = {
+        label = "urbansvr",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/urbansvr.png"
+    },
+    ["v4sp"] = {
+        label = "v4sp",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/v4sp.png"
+    },
+    ["velociraptor"] = {
+        label = "velociraptor",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/velociraptor.png"
+    },
+    ["vespa"] = {
+        label = "vespa",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/vespa.png"
+    },
+    ["x3ct522"] = {
+        label = "x3ct522",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/x3ct522.png"
+    },
+    ["x3m3tour22"] = {
+        label = "x3m3tour22",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/x3m3tour22.png"
+    },
+    ["x3ramtrx21"] = {
+        label = "x3ramtrx21",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/x3ramtrx21.png"
+    },
+    ["xp210"] = {
+        label = "xp210",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/xp210.png"
+    },
+    ["xp210lh"] = {
+        label = "xp210lh",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/xp210lh.png"
+    },
+    ["yzfr6"] = {
+        label = "yzfr6",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/yzfr6.png"
+    },
+    ["z400dy"] = {
+        label = "z400dy",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/z400dy.png"
+    },
+    ["z419"] = {
+        label = "z419",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/z419.png"
+    },
+    ["404d5tt"] = {
+        label = "404d5tt",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/404d5tt.png"
+    },
+    ["big150"] = {
+        label = "big150",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/big150.png"
+    },
+    ["bigr1200"] = {
+        label = "bigr1200",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/bigr1200.png"
+    },
+    ["bigraptor"] = {
+        label = "bigraptor",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/bigraptor.png"
+    },
+    ["bigrepair"] = {
+        label = "bigrepair",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/bigrepair.png"
+    },
+    ["boorbc"] = {
+        label = "boorbc",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/boorbc.png"
+    },
+    ["elegyz"] = {
+        label = "elegyz",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/elegyz.png"
+    },
+    ["energy450"] = {
+        label = "energy450",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/energy450.png"
+    },
+    ["energyafricatmec"] = {
+        label = "energyafricatmec",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/energyafricatmec.png"
+    },
+    ["energynissanmec"] = {
+        label = "energynissanmec",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/energynissanmec.png"
+    },
+    ["energyr1200"] = {
+        label = "energyr1200",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/energyr1200.png"
+    },
+    ["energyraptor"] = {
+        label = "energyraptor",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/energyraptor.png"
+    },
+    ["energyrepair"] = {
+        label = "energyrepair",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/energyrepair.png"
+    },
+    ["energytruckmec"] = {
+        label = "energytruckmec",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/energytruckmec.png"
+    },
+    ["growlerc"] = {
+        label = "growlerc",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/growlerc.png"
+    },
+    ["jesterwb"] = {
+        label = "jesterwb",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/jesterwb.png"
+    },
+    ["kamipurosangue02"] = {
+        label = "kamipurosangue02",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/kamipurosangue02.png"
+    },
+    ["kiario"] = {
+        label = "kiario",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/kiario.png"
+    },
+    ["rathaulc"] = {
+        label = "rathaulc",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/rathaulc.png"
+    },
+    ["rattowc"] = {
+        label = "rattowc",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/rattowc.png"
+    },
+    ["rattrailer"] = {
+        label = "rattrailer",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/rattrailer.png"
+    },
+    ["rattruckc"] = {
+        label = "rattruckc",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/rattruckc.png"
+    },
+    ["rt3000wb"] = {
+        label = "rt3000wb",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/rt3000wb.png"
+    },
+    ["vigerozxwbc"] = {
+        label = "vigerozxwbc",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/vigerozxwbc.png"
+    },
+    ["warrener3"] = {
+        label = "warrener3",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/warrener3.png"
+    },
+    ["WRafricat"] = {
+        label = "WRafricat",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/WRafricat.png"
+    },
+    ["WRflatbed"] = {
+        label = "WRflatbed",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/WRflatbed.png"
+    },
+    ["WRflatbed2"] = {
+        label = "WRflatbed2",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/WRflatbed2.png"
+    },
+    ["WRnissantitan17"] = {
+        label = "WRnissantitan17",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/WRnissantitan17.png"
+    },
+    ["z190wb"] = {
+        label = "z190wb",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/z190wb.png"
     }
 }
