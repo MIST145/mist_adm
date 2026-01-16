@@ -5015,5 +5015,61 @@ return {
     ["xkmaster48v"] = {
         label = "xkmaster48v",
         image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/xkmaster48v.png"
+    },
+    ["1deep53mack"] = {
+        label = "1deep53mack",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/1deep53mack.png"
+    },
+    ["1deep53trailer"] = {
+        label = "1deep53trailer",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/1deep53trailer.png"
+    },
+    ["4b"] = {
+        label = "4b",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/4b.png"
+    },
+    ["actros"] = {
+        label = "actros",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/actros.png"
+    },
+    ["AllStarHauler"] = {
+        label = "AllStarHauler",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/AllStarHauler.png"
+    },
+    ["avion1"] = {
+        label = "avion1",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/avion1.png"
+    },
+    ["bc20hauler"] = {
+        label = "bc20hauler",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/bc20hauler.png"
+    },
+    ["BennyTruck"] = {
+        label = "BennyTruck",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/BennyTruck.png"
+    },
+    ["chevytow"] = {
+        label = "chevytow",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/chevytow.png"
+    },
+    ["coe54t"] = {
+        label = "coe54t",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/coe54t.png"
+    },
+    ["daf"] = {
+        label = "daf",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/daf.png"
+    },
+    ["dl550mec"] = {
+        label = "dl550mec",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/dl550mec.png"
+    },
+    ["dynotrailer"] = {
+        label = "dynotrailer",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/dynotrailer.png"
+    },
+    ["f550tow"] = {
+        label = "f550tow",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/f550tow.png"
     }
 }
