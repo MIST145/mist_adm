@@ -11219,5 +11219,145 @@ return {
     ["zx10ra"] = {
         label = "zx10ra",
         image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/veh_png/zx10ra.png"
+    },
+    ["godzhauler"] = {
+        label = "godzhauler",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/godzhauler.png"
+    },
+    ["guardiantow"] = {
+        label = "guardiantow",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/guardiantow.png"
+    },
+    ["helliontow"] = {
+        label = "helliontow",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/helliontow.png"
+    },
+    ["ibcarhauler"] = {
+        label = "ibcarhauler",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/ibcarhauler.png"
+    },
+    ["landstalker2tow"] = {
+        label = "landstalker2tow",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/landstalker2tow.png"
+    },
+    ["lowboyb"] = {
+        label = "lowboyb",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/lowboyb.png"
+    },
+    ["pjtrailer"] = {
+        label = "pjtrailer",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/pjtrailer.png"
+    },
+    ["ramflatbed"] = {
+        label = "ramflatbed",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/ramflatbed.png"
+    },
+    ["razertrailer"] = {
+        label = "razertrailer",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/razertrailer.png"
+    },
+    ["rrtrailer"] = {
+        label = "rrtrailer",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/rrtrailer.png"
+    },
+    ["sadlerrt"] = {
+        label = "sadlerrt",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/sadlerrt.png"
+    },
+    ["scania2"] = {
+        label = "scania2",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/scania2.png"
+    },
+    ["scaniatow"] = {
+        label = "scaniatow",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/scaniatow.png"
+    },
+    ["sema10X10"] = {
+        label = "sema10X10",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/sema10X10.png"
+    },
+    ["semihauler"] = {
+        label = "semihauler",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/semihauler.png"
+    },
+    ["t680"] = {
+        label = "t680",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/t680.png"
+    },
+    ["t800flatbed"] = {
+        label = "t800flatbed",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/t800flatbed.png"
+    },
+    ["thaul47"] = {
+        label = "thaul47",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/thaul47.png"
+    },
+    ["thauler"] = {
+        label = "thauler",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/thauler.png"
+    },
+    ["tooltruck"] = {
+        label = "tooltruck",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/tooltruck.png"
+    },
+    ["toyhauler"] = {
+        label = "toyhauler",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/toyhauler.png"
+    },
+    ["trailercar"] = {
+        label = "trailercar",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/trailercar.png"
+    },
+    ["trailersmall"] = {
+        label = "trailersmall",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/trailersmall.png"
+    },
+    ["vnl780"] = {
+        label = "vnl780",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/vnl780.png"
+    },
+    ["rmod240sx"] = {
+        label = "rmod240sx",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/RMOD_PACK/rmod240sx.png"
+    },
+    ["rmodbentley1"] = {
+        label = "rmodbentley1",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/RMOD_PACK/rmodbentley1.png"
+    },
+    ["rmode63s"] = {
+        label = "rmode63s",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/RMOD_PACK/rmode63s.png"
+    },
+    ["rmodg65"] = {
+        label = "rmodg65",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/RMOD_PACK/rmodg65.png"
+    },
+    ["rmodgt63"] = {
+        label = "rmodgt63",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/RMOD_PACK/rmodgt63.png"
+    },
+    ["rmodr8c"] = {
+        label = "rmodr8c",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/RMOD_PACK/rmodr8c.png"
+    },
+    ["rmodzl1"] = {
+        label = "rmodzl1",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/RMOD_PACK/rmodzl1.png"
+    },
+    ["gstghell1"] = {
+        label = "gstghell1",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/Random/gstghell1.png"
+    },
+    ["wrx19"] = {
+        label = "wrx19",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/Random/wrx19.png"
+    },
+    ["onx_polalamo"] = {
+        label = "onx_polalamo",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/ONX_PD/onx_polalamo.png"
+    },
+    ["onx_polaleu"] = {
+        label = "onx_polaleu",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/ONX_PD/onx_polaleu.png"
     }
 }
