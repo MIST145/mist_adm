@@ -5071,5 +5071,61 @@ return {
     ["f550tow"] = {
         label = "f550tow",
         image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/f550tow.png"
+    },
+    ["gtow"] = {
+        label = "gtow",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/gtow.png"
+    },
+    ["hd25tow"] = {
+        label = "hd25tow",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/hd25tow.png"
+    },
+    ["heli1"] = {
+        label = "heli1",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/heli1.png"
+    },
+    ["lg_dyno"] = {
+        label = "lg_dyno",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/lg_dyno.png"
+    },
+    ["liquide1"] = {
+        label = "liquide1",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/liquide1.png"
+    },
+    ["lowboy"] = {
+        label = "lowboy",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/lowboy.png"
+    },
+    ["lowboyjeep"] = {
+        label = "lowboyjeep",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/lowboyjeep.png"
+    },
+    ["lowboystinger"] = {
+        label = "lowboystinger",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/lowboystinger.png"
+    },
+    ["man"] = {
+        label = "man",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/man.png"
+    },
+    ["mb608"] = {
+        label = "mb608",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/mb608.png"
+    },
+    ["militaire1"] = {
+        label = "militaire1",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/militaire1.png"
+    },
+    ["phantom"] = {
+        label = "phantom",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/phantom.png"
+    },
+    ["pounder"] = {
+        label = "pounder",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/pounder.png"
+    },
+    ["W900"] = {
+        label = "W900",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/W900.png"
     }
 }
