@@ -11359,5 +11359,33 @@ return {
     ["onx_polaleu"] = {
         label = "onx_polaleu",
         image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/rup/ONX_PD/onx_polaleu.png"
+    },
+    ["17mov_LumberJackcar2"] = {
+        label = "17mov_LumberJackcar2",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/17mov_LumberJackcar2.png"
+    },
+    ["17mov_LumberjackCar"] = {
+        label = "17mov_LumberjackCar",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/17mov_LumberjackCar.png"
+    },
+    ["17mov_LumberjackTruck"] = {
+        label = "17mov_LumberjackTruck",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/17mov_LumberjackTruck.png"
+    },
+    ["17mov_flatbed"] = {
+        label = "17mov_flatbed",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/17mov_flatbed.png"
+    },
+    ["17mov_logTrailer"] = {
+        label = "17mov_logTrailer",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/17mov_logTrailer.png"
+    },
+    ["17mov_tractor"] = {
+        label = "17mov_tractor",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/17mov_tractor.png"
+    },
+    ["f620"] = {
+        label = "f620",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/f620.png"
     }
 }
