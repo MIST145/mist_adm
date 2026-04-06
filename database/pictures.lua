@@ -11387,5 +11387,281 @@ return {
     ["f620"] = {
         label = "f620",
         image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/rup/f620.png"
+    },
+    ["17jamb"] = {
+        label = "17jamb",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/17jamb.png"
+    },
+    ["20rs5"] = {
+        label = "20rs5",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/20rs5.png"
+    },
+    ["22transit"] = {
+        label = "22transit",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/22transit.png"
+    },
+    ["60vwbus"] = {
+        label = "60vwbus",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/60vwbus.png"
+    },
+    ["CC550i"] = {
+        label = "CC550i",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/CC550i.png"
+    },
+    ["aeroxr"] = {
+        label = "aeroxr",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/aeroxr.png"
+    },
+    ["agerar13"] = {
+        label = "agerar13",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/agerar13.png"
+    },
+    ["alfa147"] = {
+        label = "alfa147",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/alfa147.png"
+    },
+    ["alpinad3s"] = {
+        label = "alpinad3s",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/alpinad3s.png"
+    },
+    ["astv8vantage"] = {
+        label = "astv8vantage",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/astv8vantage.png"
+    },
+    ["baggedpeterbilt"] = {
+        label = "baggedpeterbilt",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/baggedpeterbilt.png"
+    },
+    ["brabuscrawl"] = {
+        label = "brabuscrawl",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/brabuscrawl.png"
+    },
+    ["buffalowb"] = {
+        label = "buffalowb",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/buffalowb.png"
+    },
+    ["carboDRCustoM"] = {
+        label = "carboDRCustoM",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/carboDRCustoM.png"
+    },
+    ["carretinha"] = {
+        label = "carretinha",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/carretinha.png"
+    },
+    ["civicek9"] = {
+        label = "civicek9",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/civicek9.png"
+    },
+    ["corollagr"] = {
+        label = "corollagr",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/corollagr.png"
+    },
+    ["eliombw4i22"] = {
+        label = "eliombw4i22",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/eliombw4i22.png"
+    },
+    ["faggio2"] = {
+        label = "faggio2",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/faggio2.png"
+    },
+    ["fiatcampervan"] = {
+        label = "fiatcampervan",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/fiatcampervan.png"
+    },
+    ["fordmus"] = {
+        label = "fordmus",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/fordmus.png"
+    },
+    ["gazonnext"] = {
+        label = "gazonnext",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/gazonnext.png"
+    },
+    ["gtrnismo24"] = {
+        label = "gtrnismo24",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/gtrnismo24.png"
+    },
+    ["hggrpo"] = {
+        label = "hggrpo",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/hggrpo.png"
+    },
+    ["hs2000"] = {
+        label = "hs2000",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/hs2000.png"
+    },
+    ["ikx3i422"] = {
+        label = "ikx3i422",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/ikx3i422.png"
+    },
+    ["kkm4"] = {
+        label = "kkm4",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/kkm4.png"
+    },
+    ["lanzador"] = {
+        label = "lanzador",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/lanzador.png"
+    },
+    ["lcr34pd"] = {
+        label = "lcr34pd",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/lcr34pd.png"
+    },
+    ["m135ipd"] = {
+        label = "m135ipd",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/m135ipd.png"
+    },
+    ["m3e46"] = {
+        label = "m3e46",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/m3e46.png"
+    },
+    ["m3prior"] = {
+        label = "m3prior",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/m3prior.png"
+    },
+    ["m4gt3"] = {
+        label = "m4gt3",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/m4gt3.png"
+    },
+    ["m4gt3t"] = {
+        label = "m4gt3t",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/m4gt3t.png"
+    },
+    ["mobm23"] = {
+        label = "mobm23",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/mobm23.png"
+    },
+    ["mstbc"] = {
+        label = "mstbc",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/mstbc.png"
+    },
+    ["mx5"] = {
+        label = "mx5",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/mx5.png"
+    },
+    ["mx5na"] = {
+        label = "mx5na",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/mx5na.png"
+    },
+    ["n180sx"] = {
+        label = "n180sx",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/n180sx.png"
+    },
+    ["n180sxse"] = {
+        label = "n180sxse",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/n180sxse.png"
+    },
+    ["n350z"] = {
+        label = "n350z",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/n350z.png"
+    },
+    ["n350zc"] = {
+        label = "n350zc",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/n350zc.png"
+    },
+    ["nsilvias14k"] = {
+        label = "nsilvias14k",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/nsilvias14k.png"
+    },
+    ["nsilvias14z"] = {
+        label = "nsilvias14z",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/nsilvias14z.png"
+    },
+    ["offrover"] = {
+        label = "offrover",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/offrover.png"
+    },
+    ["pmacan4"] = {
+        label = "pmacan4",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/pmacan4.png"
+    },
+    ["ptaycanct"] = {
+        label = "ptaycanct",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/ptaycanct.png"
+    },
+    ["rr70bosswidepd"] = {
+        label = "rr70bosswidepd",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/rr70bosswidepd.png"
+    },
+    ["s1hr"] = {
+        label = "s1hr",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/s1hr.png"
+    },
+    ["saveirosurf"] = {
+        label = "saveirosurf",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/saveirosurf.png"
+    },
+    ["sentinel5c"] = {
+        label = "sentinel5c",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/sentinel5c.png"
+    },
+    ["sleonc21"] = {
+        label = "sleonc21",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/sleonc21.png"
+    },
+    ["spirit"] = {
+        label = "spirit",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/spirit.png"
+    },
+    ["trlsmall"] = {
+        label = "trlsmall",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/trlsmall.png"
+    },
+    ["ttmk1"] = {
+        label = "ttmk1",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/ttmk1.png"
+    },
+    ["vanznsxhycade"] = {
+        label = "vanznsxhycade",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/vanznsxhycade.png"
+    },
+    ["vespa1"] = {
+        label = "vespa1",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/vespa1.png"
+    },
+    ["veyronjb"] = {
+        label = "veyronjb",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/veyronjb.png"
+    },
+    ["vision"] = {
+        label = "vision",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/vision.png"
+    },
+    ["vstruck"] = {
+        label = "vstruck",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/vstruck.png"
+    },
+    ["vulcanamr"] = {
+        label = "vulcanamr",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/vulcanamr.png"
+    },
+    ["vweos"] = {
+        label = "vweos",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/vweos.png"
+    },
+    ["vwgolf8r"] = {
+        label = "vwgolf8r",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/vwgolf8r.png"
+    },
+    ["vwgolf8re"] = {
+        label = "vwgolf8re",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/vwgolf8re.png"
+    },
+    ["x666"] = {
+        label = "x666",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/x666.png"
+    },
+    ["yarisrb"] = {
+        label = "yarisrb",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/yarisrb.png"
+    },
+    ["zip"] = {
+        label = "zip",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/zip.png"
+    },
+    ["zlay_u1eclipse"] = {
+        label = "zlay_u1eclipse",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/zlay_u1eclipse.png"
+    },
+    ["zondarevob"] = {
+        label = "zondarevob",
+        image = "https://raw.githubusercontent.com/MIST145/mist_adm/main/2026/march/zondarevob.png"
     }
 }
